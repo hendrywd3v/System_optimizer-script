@@ -25,3 +25,5 @@ A simple and powerful Bash script to update, clean, and optimize Debian/Ubuntu-b
 
 ## ⚙️ How to Use
 
+
+👉 [Installation & Usage Guide](./INSTALL.md)
