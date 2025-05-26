@@ -25,9 +25,3 @@ A simple and powerful Bash script to update, clean, and optimize Debian/Ubuntu-b
 
 ## ⚙️ How to Use
 
-### 1. Download the script
-
-```bash
-git clone https://github.com/your-username/system_optimizer-script.git
-cd system_optimizer-script
-chmod +x maintenance.sh
